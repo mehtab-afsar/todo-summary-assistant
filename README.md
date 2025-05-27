@@ -1,15 +1,10 @@
-Amazing work — you've built a full-stack, LLM-integrated, Slack-connected to-do app. Let’s top it off with a **professional, clean `README.md`** to showcase your project on GitHub.
-
----
-
-# 📘 `README.md` for Your Project
+# 📘 `README.md` 
 
 ```markdown
 # 🧠 Todo Summary Assistant
 
 A full-stack to-do list manager that not only lets users create, edit, and delete tasks — but also generates a smart summary using OpenAI and posts it to a Slack channel with one click.
 
----
 
 ## 🚀 Features
 
