@@ -140,7 +140,7 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/your/webhook/url
 
 **Mehtab Afsar**
 Built as part of a full-stack internship challenge.
-📫 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)
+📫 [LinkedIn](www.linkedin.com/in/mohammed-mehtab-afsar-97b591227) | [GitHub](https://github.com/mehtabasfar)
 
 ---
 
